@@ -9,7 +9,7 @@ type: docs
 
 使用 [hugo](https://gohugo.io/) 搭建  
 
-仓库地址：<https://github.com/reiuyfan/blog>  
+仓库地址：<https://github.com/reiuyfan/reiuyfan.github.io>  
 
 主题来自 [hugo-book](https://github.com/alex-shpak/hugo-book)
 
