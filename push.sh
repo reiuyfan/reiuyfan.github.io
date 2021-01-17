@@ -16,4 +16,4 @@ fi
 git commit -m "$msg"
 
 # Push and build repos.
-git push origin source
+git push origin main
