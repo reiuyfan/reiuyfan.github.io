@@ -1,3 +1,3 @@
 ## Link
 
-Netlify: <https://reiuyfan.github.io>
+<https://reiuyfan.github.io>
