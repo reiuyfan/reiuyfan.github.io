@@ -1,5 +1,6 @@
 ---
 title: Introduction
+type: docs
 ---
 
 ## 关于  
