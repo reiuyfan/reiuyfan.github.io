@@ -1,0 +1,11 @@
+baseURL = "https://reiuyfan.github.io/"
+languageCode = "en-us"
+title = "Home"
+theme = "book"
+disablePathToLower = true
+
+[params]
+BookTheme = 'auto'
+
+[markup.goldmark.renderer]
+unsafe = true
