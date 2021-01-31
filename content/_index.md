@@ -11,7 +11,7 @@ type: docs
 
 主题来自 [hugo-book](https://github.com/alex-shpak/hugo-book)  
 
-仓库地址：<https://github.com/reiuyfan/reiuyfan.github.io>  
+仓库地址：<https://github.com/reiuyfan/reiuyfan.github.io>
 
 ## 联系方式																					
 Telegram：[@reiuyfan](https://t.me/reiuyfan)  
