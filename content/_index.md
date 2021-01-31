@@ -11,15 +11,15 @@ type: docs
 
 主题来自 [hugo-book](https://github.com/alex-shpak/hugo-book)  
 
-仓库地址：<https://github.com/reiuyfan/reiuyfan.github.io>
+仓库地址 [reiuyfan/reiuyfan.github.io](https://github.com/reiuyfan/reiuyfan.github.io)
 
 ## 联系方式																					
-Telegram：[@reiuyfan](https://t.me/reiuyfan)  
+Telegram: [@reiuyfan](https://t.me/reiuyfan)  
 
-GitHub：[@reiuyfan](https://github.com/reiuyfan)  
+GitHub: [@reiuyfan](https://github.com/reiuyfan)  
 
-Twitter：[@reiuyfan](https://twitter.com/reiuyfan)  
+Twitter: [@reiuyfan](https://twitter.com/reiuyfan)  
 
-Tip：由于 GitHub 无法托管 R18 因此本子只能放预览图  
+Tip: 由于 GitHub 无法托管 R18 因此本子只能放预览图  
 
 ## Have a nice day :)
